@@ -1,0 +1,9 @@
+{
+    "name": "EasierSkillCurve",
+    "version_number": "0.1.2",
+    "website_url": "https://github.com/k-Knight/EasierSkillCurve",
+    "description": "Server and Client mod that makes required experience for next skill level grow linearly.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}
